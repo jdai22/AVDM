@@ -5,7 +5,6 @@ This repository is dedicated to the implementation of **AVDM (Adversarial Vessel
 AVDM integrates adversarial supervision into a diffusion model to synthesize high-fidelity 3D volumes with controllable structural variations, addressing challenges in medical image analysis such as domain gaps and data scarcity.
 
 ## Project Overview
-- **Purpose**: AVDM generates anatomically plausible 3D blood vessel volumes from vascular inputs, enhancing downstream tasks like segmentation.
 - **Key Features**:
   - Controllable synthesis via a segmenter-based discriminator.
   - Superior generative fidelity and cross-domain generalizability.
