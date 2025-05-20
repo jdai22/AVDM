@@ -1,6 +1,6 @@
 # AVDM: Controllable Adversarial Diffusion Model for Vessel-to-Volume Synthesis
 
-This repository is dedicated to the implementation of **AVDM (Adversarial Vessel-to-Volumes Diffusion Model)**, a novel framework introduced in our paper titled *"AVDM: Controllable Adversarial Diffusion Model for Vessel-to-Volume Synthesis"*, submitted to miccai 2025.
+This repository is dedicated to the implementation of **AVDM**, a novel framework introduced in our paper titled *"AVDM: Controllable Adversarial Diffusion Model for Vessel-to-Volume Synthesis"*, submitted to miccai 2025.
 
 AVDM integrates adversarial supervision into a diffusion model to synthesize high-fidelity 3D volumes with controllable structural variations, addressing challenges in medical image analysis such as domain gaps and data scarcity.
 
